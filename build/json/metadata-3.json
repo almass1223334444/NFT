@@ -1,0 +1,9 @@
+{
+    "name": "NFT 1",
+    "description": "This is the first NFT in the collection",
+    "image": "ipfs://bafybeia36wz6xqa5k4jydc4s7f25s67l6t26ujhf7foxotqobq2owglye4/image3.jpg",
+    "attributes": {
+      "rarity": "common",
+      "color": "red"
+    }
+  }
